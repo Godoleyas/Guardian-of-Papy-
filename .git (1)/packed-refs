@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+8ae82e87da9bb8d34844b782043cfb25b07566ea refs/remotes/origin/autofix
+503b430e17e49831f2d11939b73405f3b93d39a1 refs/remotes/origin/black
+768367bbb6ffa62ed66c051892769676a129dd84 refs/remotes/origin/deepsource-fix-2eb548b7
+dac3de9b1deb8b1b433e7855e36cc8bcc4a6bee4 refs/remotes/origin/deepsource-fix-50283f38
+ae591b450f3ed8cabd984ba67640eb9b0fc16f1e refs/remotes/origin/deepsource-fix-989c3c04
+d08397566f149ccbf4ca457bc9d290ab797749db refs/remotes/origin/deepsource-fix-fdea9fc6
+71d842473e91262ae9389823570e20f6bf1810c8 refs/remotes/origin/deepsource-fix-ff2d1763
+a2ea26720c372f64ef73b6f683ffb5750da1ea34 refs/remotes/origin/master
+e68bbd2c1de59401c8493c6ec650fd846cfe7b52 refs/remotes/origin/pyro
+309b11693ecafab5d34a67dfd1741a809a86a171 refs/remotes/origin/shiken
+1a29b063d0e55d3b47bbeede2a7dfac355837cbe refs/remotes/origin/v13
+f28c317f604e37403da2b77d7fcfd2ba3d9e83c6 refs/tags/1
+eecad5976542a1776e562e98e5d56a863e563002 refs/tags/2
